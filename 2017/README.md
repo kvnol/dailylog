@@ -1,6 +1,4 @@
-# Dailylog
-My daily log, day after day.
+# 2017 log
 
-Inspired by [Zeh Fernandes](https://github.com/zehfernandes/dailylog/) and [Felipe Fialho](https://github.com/LFeh/dailylog).
-
-## 2017
+### Mar
+- [Day 05](https://github.com/kvnol/dailylog/blob/master/2017/log/05-03-2017.md) - Create: `devnspiration`
