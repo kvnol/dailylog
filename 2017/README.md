@@ -7,4 +7,4 @@
 - [Day 08](https://github.com/kvnol/dailylog/blob/master/2017/log/08-03-2017.md) - Did: `meetup FrontEndSP` / Read: `Uma reflexão sobre salários, valor hora e qualidade de vida`, `Abandonei de vez o Photoshop para usar o Sketch`
 - Day 09 - Did: `Work`
 - Day 10 - Did: `Code In The Dark`
-- [Day 11](https://github.com/kvnol/dailylog/blob/master/2017/log/11-03-2017.md) - Create: `Links to learn`
+- [Day 11](https://github.com/kvnol/dailylog/blob/master/2017/log/11-03-2017.md) - Create: `Links to learn` / Did: `learn english` / Read: `Programador, a comunidade precisa de você!` / Watch: `Qualidade de Código - Será que é realmente importante?`
