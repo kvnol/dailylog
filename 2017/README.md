@@ -8,4 +8,5 @@
 - Day 09 - Did: `Work`
 - Day 10 - Did: `Code In The Dark`
 - [Day 11](https://github.com/kvnol/dailylog/blob/master/2017/log/11-03-2017.md) - Create: `Links to learn` / Did: `learn english` / Read: `Programador, a comunidade precisa de você!` / Watch: `Qualidade de Código - Será que é realmente importante?`
-- [Day 12] - Did: `cinema`, `relax`
+- Day 12 - Did: `cinema`, `relax`
+- [Day 13](https://github.com/kvnol/dailylog/blob/master/2017/log/13-03-2017.md) - Did: `work`, `learn javascript` / Read: `Quebre convenções`
