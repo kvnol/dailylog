@@ -10,3 +10,4 @@
 - [Day 11](https://github.com/kvnol/dailylog/blob/master/2017/log/11-03-2017.md) - Create: `Links to learn` / Did: `learn english` / Read: `Programador, a comunidade precisa de você!` / Watch: `Qualidade de Código - Será que é realmente importante?`
 - Day 12 - Did: `cinema`, `relax`
 - [Day 13](https://github.com/kvnol/dailylog/blob/master/2017/log/13-03-2017.md) - Did: `work`, `learn javascript` / Read: `Quebre convenções`
+- [Day 14](https://github.com/kvnol/dailylog/blob/master/2017/log/14-03-2017.md) - Create: `grid-cheatsheet` / Did: `work`, `learn css` / Read: `Getting Started with CSS Grid`, `Adeus Flexbox, bem vindo CSS Grid Layout!`
