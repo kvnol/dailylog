@@ -11,7 +11,10 @@
 - Day 12 - Did: `cinema`, `relax`
 - [Day 13](https://github.com/kvnol/dailylog/blob/master/2017/log/13-03-2017.md) - `learn javascript` / Read: `Quebre convenções`
 - [Day 14](https://github.com/kvnol/dailylog/blob/master/2017/log/14-03-2017.md) - Create: `grid-cheatsheet` / Did: `work`, `learn css` / Read: `Getting Started with CSS Grid`, `Adeus Flexbox, bem vindo CSS Grid Layout!`
-- [Day 15](https://github.com/kvnol/dailylog/blob/master/2017/log/14-03-2017.md) - Read: `Atomicidade espelhada: UI e Front-end falando a mesma língua`
-- [Day 16](https://github.com/kvnol/dailylog/blob/master/2017/log/14-03-2017.md) - Read: `CSS Features detection de forma nativa com @supports`
-- [Day 17](https://github.com/kvnol/dailylog/blob/master/2017/log/14-03-2017.md) - Did: `learn javascript` / Read: `Tenha o DOM`
+- [Day 15](https://github.com/kvnol/dailylog/blob/master/2017/log/15-03-2017.md) - Read: `Atomicidade espelhada: UI e Front-end falando a mesma língua`
+- [Day 16](https://github.com/kvnol/dailylog/blob/master/2017/log/16-03-2017.md) - Read: `CSS Features detection de forma nativa com @supports`
+- [Day 17](https://github.com/kvnol/dailylog/blob/master/2017/log/17-03-2017.md) - Did: `learn javascript` / Read: `Tenha o DOM`
 - Day 18 - Did: `learn english`, `learn javascript`
+- Day 19 - Did: `learn javascript`, `relax`
+- [Day 20](https://github.com/kvnol/dailylog/blob/master/2017/log/20-03-2017.md) - Did: `work`, `gym` / Read: `O fim da profissão front-end`
+- Day 21 - Did: `work`, `gym`
