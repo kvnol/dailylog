@@ -18,3 +18,7 @@
 - Day 19 - Did: `learn javascript`, `relax`
 - [Day 20](https://github.com/kvnol/dailylog/blob/master/2017/log/20-03-2017.md) - Did: `work`, `gym` / Read: `O fim da profissão front-end`
 - Day 21 - Did: `work`, `gym`
+- Day 22 - Did: `work`, `gym`
+- Day 23 - Did: `work`, `gym`
+- Day 24 - Did: `work`
+- Day 25 - Did: `learn english`, `learn javascript` / Read: `A Good Front-End Architecture`
