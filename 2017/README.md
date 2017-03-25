@@ -21,4 +21,4 @@
 - Day 22 - Did: `work`, `gym`
 - Day 23 - Did: `work`, `gym`
 - Day 24 - Did: `work`
-- Day 25 - Did: `learn english`, `learn javascript` / Read: `A Good Front-End Architecture`
+- [Day 25](https://github.com/kvnol/dailylog/blob/master/2017/log/25-03-2017.md) - Did: `learn english`, `learn javascript` / Read: `A Good Front-End Architecture`
