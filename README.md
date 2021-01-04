@@ -5,3 +5,6 @@ Inspired by [Zeh Fernandes](https://github.com/zehfernandes/dailylog/) and [Feli
 
 ## Years
 - [2017](https://github.com/kvnol/dailylog/tree/master/2017)
+- 2018
+- 2019
+- [2020](https://github.com/kvnol/dailylog/tree/master/2020)
